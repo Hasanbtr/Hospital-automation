@@ -1,0 +1,13 @@
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.AnaPencere.resources
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.Properties.Resources.resources
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.RandevuAl.resources
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.exe
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.pdb
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\VeriTabani.accdb
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.Servis.resources
+E:\Bill\Projeler\HastaneOtomasyon\HastaneOtomasyon\obj\x86\Debug\HastaneOtomasyon.Depo.resources
